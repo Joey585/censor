@@ -1,0 +1,6 @@
+name: Censor
+version: '${project.version}'
+main: com.joey585.earthcraftdev.censor
+api-version: 1.18
+authors: [ Joey585 ]
+description: Blocks words and logs it to a discord webhook
